@@ -1,10 +1,8 @@
-JavaScript and jQuery Code Review
+#JavaScript and jQuery Code Review
 
+##By Matt Phillips
 
-Epicodus intro to coding evening student:
-Matt Phillips
-
-Description
+##Description
 
 A simple page for choosing vacation ideas using HTML, CSS, BOOTSTRAP, JAVASCRIPT AND JQUERY.
 

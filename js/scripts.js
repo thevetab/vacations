@@ -47,7 +47,7 @@ $(document).ready(function() {
         ((days === "fj") && (nights === "fj") && (dinner === "fj"))) {
             $("#fiji").show();
             $("#alaska").hide();
-            $("new_york").hide();
+            $("#new_york").hide();
 
         } else {
             $("#alaska").show();
